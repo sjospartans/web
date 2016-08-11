@@ -15,7 +15,7 @@
         new WOW().init();
     </script>
 </head>
-<body background="https://hd.unsplash.com/photo-1457365050282-c53d772ef8b2">
+<body>
 
 
 	<div class="container fadeInDown animated">
@@ -30,9 +30,7 @@
 		</div>
 	
 		<footer>
-			<center>
-				<li class="fadeInUp animated"><small>Background Image by <a href="https://unsplash.com/@romainbriaux">Romain Briaux</a> courtesy <a href="https://unsplash.com">Unsplash</small>
-			</center>
+			
 		</footer>
 
 		
