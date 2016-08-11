@@ -24,9 +24,7 @@
 	</div>
 		<div class="container animated">
 				<center>
-					<li class="slideInLeft animated"><a href="http://www.twitter.com/Nate_w34" target="_blank"><img src="images/twitter.png"></a></li>
-					<li class="fadeInDown animated"><a href="http://www.instagram.com/Nate_w34" target="_blank"><img src="images/instagram.png"></a></li>
-					<li class="slideInRight animated"><a href="https://plus.google.com/u/0/106751646279176189713/posts" target="_blank"><img src="images/google.png"></a></li>
+					
 				</center>
 		</div>
 	
@@ -36,9 +34,8 @@
 			</center>
 		</footer>
 
-		<p>
-		</p>
-		<center><a href="/css/animate/home">Proceed to Site</a></center>
+		
+		
 
 </body>
 </html>
