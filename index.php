@@ -14,7 +14,7 @@
         new WOW().init();
     </script>
 </head>
-<body background="https://hd.unsplash.com/reserve/mW95rWmYSRe4nTMVaRaW_French-Mountain.jpg">
+<body background="https://hd.unsplash.com/photo-1457365050282-c53d772ef8b2">
 
 
 	<div class="container fadeInDown animated">
