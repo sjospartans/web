@@ -25,7 +25,7 @@
 	</div>
 		<div class="container animated">
 				<center>
-					<li class="slideInLeft animated"><a href='/git/web/home'><img src="images/right_arrow.png" alt="Enter Site" value="Enter Site"></a></li>
+					<li class="slideInLeft animated"><a class="animatehover" href='/git/web/home'><img src="images/hover-arrow.png" class="no" width="64px" height="64px" alt="Enter Site" value="Enter Site"></a></li>
 				</center>
 		</div>
 	
